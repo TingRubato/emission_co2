@@ -162,3 +162,7 @@ function emissionChart(transformedEmissionData, {width}) {
     ${resize((width) => emissionChart(transformedEmissionData, {width}))}
   </div>
 </div>
+
+```js
+display("This is Co2 Emission data")
+```
